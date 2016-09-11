@@ -1,2 +1,2 @@
 # PML_sub
-PML coursera submission
+Practical Machine Learning - coursera - submission
